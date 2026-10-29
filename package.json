@@ -1,0 +1,16 @@
+{
+  "name": "redis-cache-practice",
+  "version": "1.0.0",
+  "description": "Beginner Express + Redis caching practice project",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "redis": "^5.8.0"
+  },
+  "devDependencies": {}
+}
