@@ -92,3 +92,7 @@ The GitHub Actions workflow in `.github/workflows/ci.yml` installs dependencies 
 - `ECONNREFUSED localhost:6379`: start Docker Desktop, then run `docker compose up -d`.
 - `npm ci` says lockfile is missing: run `npm install` once, then commit `package-lock.json`.
 - `source` always says `database`: verify Redis is running and the second request occurs within 60 seconds.
+
+
+
+Testing CI from redis-cache branch.
