@@ -94,6 +94,15 @@ The GitHub Actions workflow in `.github/workflows/ci.yml` installs dependencies 
 - `source` always says `database`: verify Redis is running and the second request occurs within 60 seconds.
 
 
+<<<<<<< HEAD
 testing sam cache from the sma cache branch
 
 s
+=======
+<<<<<<< HEAD
+vilas test
+=======
+
+Testing CI from redis-cache branch.
+>>>>>>> refs/remotes/origin/main
+>>>>>>> origin/main
